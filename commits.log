@@ -1,0 +1,104 @@
+commit 612966ba9c3b8a57a1cb890203be21c0e8bb8651
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Thu Aug 20 11:23:47 2026 -0300
+
+    Agregando 2 parrafos
+
+commit dec880fefdff68d974c954a26899731ff4defc64
+Merge: 4ed599f 00294f3
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Thu Aug 20 10:57:01 2026 -0300
+
+    Resolviendo conflicto estaciones del año con fecha
+
+commit 4ed599f2af00352f204a03c81d775f0dd77fb6ec
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Thu Aug 20 10:22:40 2026 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 00294f3158ecc0f560e92fac31cd5b543430dd57
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Thu Aug 20 10:22:40 2026 -0300
+
+    Agregando las estaciones del año
+
+commit 5a692a5bbdfbc2c21cecf3a9570b00318b945953
+Merge: 9413377 008e6b8
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 16:56:16 2026 -0300
+
+    Resolviendo conflicto merge main/html en el documentio index.html
+
+commit 008e6b87fc0543dd2d0424c31e74e1f20d35f433
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 16:37:35 2026 -0300
+
+    Agregando index.js al index.html
+
+commit 941337721ab0ac44f106da4454d2c10de6c63ec6
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 16:34:23 2026 -0300
+
+    Agregando style.css al index.html
+
+commit c70975b8af0a20d7106847d239e810c2f79d1208
+Merge: 0339bc2 b3a8f48
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 16:04:34 2026 -0300
+
+    Merge branch 'js'
+
+commit b3a8f4809168304ef373aeb866673c1bca3f33d4
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 12:46:19 2026 -0300
+
+    Cambio en index.js
+
+commit 965b30bb1216d33b087d8a971134f66478fbb201
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 12:34:19 2026 -0300
+
+    Creando index.js
+
+commit 0339bc261aa7e081c9c68207eedab1788702157b
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 12:26:22 2026 -0300
+
+    Creando style.css
+
+commit 0718ca409fd4d7c5c580574711280f830e1037ab
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 12:10:27 2026 -0300
+
+    Creando index.html
+
+commit 55d83e5aebac6bd01778b5042708213cf16a6ae4
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Wed Aug 19 11:24:46 2026 -0300
+
+    Ignorando archivos .exe
+
+commit 75b1dc106faf1f1bd4ae1d027c0345290896c17d
+Author: Diego Herrera <ingelliothp@gmail.com>
+Date:   Tue Aug 18 21:35:27 2026 -0300
+
+    Add MIT License to the project
+
+commit 049e5c455995f1ff8f4991a46bd2d1e311cf15cc
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Tue Aug 18 12:17:17 2026 -0300
+
+    Agregando mas contenido al README
+
+commit a9cb3335f449dcab5595ee79902e27a1533aa516
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Tue Aug 18 11:15:42 2026 -0300
+
+    Agregando contenido inicial al README
+
+commit db1469257e89e8d3e645a2541f63c357e2a54272
+Author: Elliot Herrera <ingelliothp@gmail.com>
+Date:   Tue Aug 18 10:40:24 2026 -0300
+
+    Primer commit 😀
